@@ -1,0 +1,15 @@
+C:\source\codeworks\santa\bin\Debug\net6.0\santa.exe
+C:\source\codeworks\santa\bin\Debug\net6.0\santa.deps.json
+C:\source\codeworks\santa\bin\Debug\net6.0\santa.runtimeconfig.json
+C:\source\codeworks\santa\bin\Debug\net6.0\santa.dll
+C:\source\codeworks\santa\bin\Debug\net6.0\ref\santa.dll
+C:\source\codeworks\santa\bin\Debug\net6.0\santa.pdb
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.csproj.AssemblyReference.cache
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.AssemblyInfoInputs.cache
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.AssemblyInfo.cs
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.csproj.CoreCompileInputs.cache
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.dll
+C:\source\codeworks\santa\obj\Debug\net6.0\ref\santa.dll
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.pdb
+C:\source\codeworks\santa\obj\Debug\net6.0\santa.genruntimeconfig.cache
